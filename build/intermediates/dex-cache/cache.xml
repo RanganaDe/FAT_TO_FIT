@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\rangana\FAT_TO_FIT\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="20fa4a3890e74b6e58d706f6b6a219681f946755">
+        <dex dex="D:\rangana\FAT_TO_FIT\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_0916c767a9e81b99b25de4a4426052b791c4a32f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\rangana\FAT_TO_FIT\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7f4975566e81e17c69f59596252d1f5f495bbb68">
+        <dex dex="D:\rangana\FAT_TO_FIT\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_91634e4c1d06477a6ea4e16f800f31b8d6218804\classes.dex" />
+    </item>
+
+</items>
